@@ -1,7 +1,9 @@
 # Welcome to Chairhax Upgrade!
 
 `This script is for educational purposes only!`
+
 `LICENCE FREEWARE`
+
 `Copyright (c) 2022 Chairhax Upgrade`
 
 # Instalation Guide:
