@@ -26,7 +26,7 @@
     + Teleport Vehicle To Waypoint
 - Added to Session Toggles
     + Kick Barcodes
-    + Vehicle Blacklist (vehicles in settings
+    + Vehicle Blacklist (vehicles in settings)
 - Added to Vehicle Options
     + Modify Top Speed
     + Vehicle Cam Fly
