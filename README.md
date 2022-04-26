@@ -18,36 +18,6 @@
 
 - Go to Misc in Cherax, then find `Chairhax_Upgrade` in Lua Scripts child and click Load, done!
 
-# Changelog:
-
-- Added to Playerlist Griefing
-    + Electrocute
-- Added to Playerlist Teleport
-    + Teleport Vehicle To Waypoint
-- Added to Session Toggles
-    + Kick Barcodes
-    + Vehicle Blacklist (vehicles in settings)
-- Added to Vehicle Options
-    + Modify Top Speed
-    + Vehicle Cam Fly
-    + Slam Vehicle
-    + Super Handbrake
-- Added to Teleport
-    + Drive Personal Vehicle
-    + TP Personal Vehicle To Self
-    + Drive Last Vehicle
-    + TP To Last Vehicle
-    + Copy Position
-- Added to Vehicle Quick Actions
-    + Insta Exit Vehicle
-- Improved
-    + IP info
-    + Pick Up Gun
-- Added auto-load lua (can load max 1)
-- Added auto-updates
-- Added Hotkeys (beta)
-- Bug fixes
-
 # Features:
 # Self <--------------- Tab
  - Self Options <------ Child
