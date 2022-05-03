@@ -46,6 +46,8 @@
     + Ceo Kick All
     + Give All Weapons
  - Toggles
+    + Lobby Info
+    + Remove Spambots
     + Kick Barcodes
     + Show Invisible Players
     + Transaction Error
@@ -77,6 +79,7 @@
     + Send Terrorist
     + Send Jet Lesters
     + Electrocute
+    + Ear Rape
  - Friendly
     + Claim Session Bounty
     + Auto Heal
@@ -96,7 +99,7 @@
     + Launch Up
     + Launch Down
     + Remove MK2 Rockets
-    + Spawn Vehicle
+    + Spawn Vehicle (Opens ImGui)
     + Limit Max Speed
     + Need For Speed
     + Horn Boosting
@@ -108,6 +111,8 @@
     + Teleport Vehicle To Kill Zone
     + Teleport Vehicle Under Maze Bank
     + Teleport Vehicle To Heaven
+- Normal
+    + Weapon Rain
  - Other 
     + Show Invisible Player
     + Send IP 
@@ -118,6 +123,7 @@
     + Load Weapons
     + Show Weapon Manager (Opens ImGui)
  - Guns
+    + Push Gun
     + Airstrike Gun 
     + Pick Up Gun
     + Acceleration Gun
@@ -125,6 +131,8 @@
     + FlameThrower
     + Xmass Tree Gun
     + Kick Gun
+ - Impacts
+    + Super Punch
 
 # Vehicle
  - Options
@@ -149,7 +157,7 @@
  - Other
     + Disable Vehicles Spawn
     + Disable Peds Spawn
-    + Clear Area (Opens ImGui)
+    + Clear Area (Opens ImGui)	
     + Block Features (Opens ImGui)
     + Black Hole (Opens ImGui)
 
@@ -165,6 +173,10 @@
 # Recovery
  - Rank
     + Set KD
+ - Business
+    + $750k Loop
+ - Other
+    + Heist Helper (Opens ImGui)
 
 # Misc
  - Nearby
