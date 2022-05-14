@@ -11,7 +11,7 @@
 1. Press `"Win" + "R"`.
 2. Type `%appdata%` and open it.
 3. Find `Cherax` folder and open it.
-4. Find `Lua` folder and drag `Chairhax_Upgrade.lua` to it.
+4. Find `Lua` folder and drag `all files` to it.
 
 
 # How to load the script:
